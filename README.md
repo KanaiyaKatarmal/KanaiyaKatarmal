@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kanaiya Katarmal</h1>
+<h1>Hi 👋, I'm Kanaiya Katarmal</h1>
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=CTO+%7C+Software+Architect+%7C+AWS+Consultant;15%2B+Years+Building+Scalable+Systems;.NET+%7C+Microservices+%7C+Cloud+Engineering;Clean+Code+%7C+System+Design+%7C+Mentorship" />
 </p>
 
-<p align="center">
+<p>
 I help developers, startups, and businesses build scalable, high-quality software with clarity, clean code, and practical architecture.
 </p>
 
@@ -66,7 +66,7 @@ I work at the intersection of:
 
 ## 🚀 Work With Me
 
-<p align="center">
+<p>
   <a href="https://calendar.app.google/i4V5ZrqWvvvi61QV9">
     <img src="https://img.shields.io/badge/📅%20Book%20a%20Call-0A66C2?style=for-the-badge&logo=googlecalendar&logoColor=white" />
   </a>
