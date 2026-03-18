@@ -12,15 +12,15 @@ I help developers, startups, and businesses build scalable, high-quality softwar
 
 ## 🧠 About Me
 
-💼 15+ years of experience in software engineering  
-🧩 Passionate about simplifying complex systems  
-📈 Focused on delivering real business impact through technology  
+- 15+ years of experience in software engineering  
+- Passionate about simplifying complex systems  
+- Focused on delivering real business impact through technology  
 
 I work at the intersection of:
 
-- ⚙️ Engineering Excellence  
-- 📈 Business Impact  
-- 👨‍💻 Developer Growth  
+- Engineering Excellence  
+- Business Impact  
+- Developer Growth  
 
 ---
 
@@ -40,11 +40,11 @@ I work at the intersection of:
 
 > **“Simple scales. Clarity wins. Consistency compounds.”**
 
-- 🔹 Clarity First — Clear thinking drives great systems  
-- 🔹 Developer-Centric — Build for people, not just machines  
-- 🔹 Business-Aligned — Tech should serve outcomes  
-- 🔹 Consistency > Complexity — Avoid unnecessary cleverness  
-- 🔹 Mentorship-Driven — Grow together, always  
+-  Clarity First — Clear thinking drives great systems  
+-  Developer-Centric — Build for people, not just machines  
+-  Business-Aligned — Tech should serve outcomes  
+-  Consistency > Complexity — Avoid unnecessary cleverness  
+-  Mentorship-Driven — Grow together, always  
 
 ---
 
