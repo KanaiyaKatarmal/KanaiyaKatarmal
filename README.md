@@ -1,66 +1,131 @@
+# Hi 👋, I'm Kanaiya Katarmal
+
 <h1>Hi 👋, I'm Kanaiya Katarmal</h1>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=CTO+%7C+Software+Architect+%7C+AWS+Consultant;15%2B+Years+Building+Scalable+Systems;.NET+%7C+Microservices+%7C+Cloud+Engineering;Clean+Code+%7C+System+Design+%7C+Mentorship" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=CTO+%7C+Software+Architect+%7C+Microsoft+MVP;Helping+60K%2B+Engineers+Write+Better+.NET+Code;.NET+%7C+AI+%7C+Cloud+Engineering;LLMs+%7C+RAG+%7C+AI+Agents+%7C+MCP;15%2B+Years+Building+Scalable+Systems" />
 </p>
 
 <p>
-I help developers, startups, and businesses build scalable, high-quality software with clarity, clean code, and practical architecture.
+I help developers, startups, and businesses build scalable, intelligent, and high-quality software through better engineering practices, practical architecture, and modern AI technologies.
+</p>
+
+<p>
+With <b>15+ years of experience</b> in software engineering, I work at the intersection of engineering excellence, business impact, and developer growth.
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 15+ years of experience in software engineering  
-- Passionate about simplifying complex systems  
-- Focused on delivering real business impact through technology  
+- 🏆 Microsoft MVP 2026
+- 👨‍💻 15+ years of experience in software engineering
+- 🚀 CTO and Software Architect
+- 👥 Helping 60K+ engineers write better .NET code
+- 🤖 Exploring Generative AI, LLMs, AI Agents, and intelligent applications
+- ☁️ Passionate about cloud architecture and distributed systems
+- ✍️ Sharing practical engineering knowledge with the developer community
 
 I work at the intersection of:
 
-- Engineering Excellence  
-- Business Impact  
-- Developer Growth  
+- Engineering Excellence
+- AI & Intelligent Software
+- Business Impact
+- Developer Growth
 
 ---
 
 ## 🧩 Core Expertise
 
 ✔ .NET & C# Development  
+✔ ASP.NET Core & Web APIs  
+✔ AI & Generative AI  
+✔ Large Language Models (LLMs)  
+✔ Retrieval-Augmented Generation (RAG)  
+✔ AI Agents & Agentic Workflows  
+✔ Model Context Protocol (MCP)  
 ✔ Software Architecture & System Design  
 ✔ Distributed Systems & Microservices  
 ✔ AWS & Cloud Engineering  
 ✔ Database Design & Optimization  
 ✔ Clean Code & Testing Practices  
-✔ Scaling Teams & Engineering Culture  
+✔ Engineering Leadership & Mentorship  
+
+---
+
+## 🤖 AI & Modern Engineering
+
+I am particularly interested in bringing AI capabilities into real-world software applications.
+
+My areas of focus include:
+
+- Building AI-powered applications using C# and .NET
+- Integrating LLMs into existing business applications
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering and Context Engineering
+- Building AI Agents and Agentic Workflows
+- Connecting AI agents with databases and external tools using MCP
+- Tool Calling and Function Calling
+- AI-assisted Software Development
+- Improving developer productivity with AI
 
 ---
 
 ## 🔍 My Philosophy
 
-> **“Simple scales. Clarity wins. Consistency compounds.”**
+> **"Simple scales. Clarity wins. Consistency compounds."**
 
--  Clarity First — Clear thinking drives great systems  
--  Developer-Centric — Build for people, not just machines  
--  Business-Aligned — Tech should serve outcomes  
--  Consistency > Complexity — Avoid unnecessary cleverness  
--  Mentorship-Driven — Grow together, always  
+- Clarity First — Clear thinking drives great systems
+- Developer-Centric — Build for people, not just machines
+- Business-Aligned — Technology should serve real outcomes
+- Consistency Over Complexity — Avoid unnecessary cleverness
+- Mentorship-Driven — Help developers learn and grow
+- Practical AI — Use AI to solve real-world problems
 
 ---
 
 ## 📬 Weekly Newsletter
 
-👉 https://newsletter.kanaiyakatarmal.com/
+I share practical insights, engineering techniques, and useful knowledge for .NET developers.
+
+👉 [.NET Weekly Newsletter](https://newsletter.kanaiyakatarmal.com/)
 
 ---
 
 ## 🛠️ Tech Focus
 
-**Languages:** C#, SQL  
-**Frameworks:** .NET, ASP.NET Core  
-**Cloud:** AWS  
-**Architecture:** Microservices, Distributed Systems  
-**Practices:** Clean Code, TDD, DDD  
+**Languages:** C#, SQL
+
+**Frameworks:** .NET, ASP.NET Core, Entity Framework Core
+
+**AI:** Generative AI, LLMs, RAG, AI Agents, MCP
+
+**Cloud:** AWS, Microsoft Azure
+
+**Databases:** SQL Server, PostgreSQL
+
+**Architecture:** Clean Architecture, DDD, Microservices, Distributed Systems
+
+**DevOps:** Terraform, CI/CD, Infrastructure as Code
+
+**Practices:** Clean Code, SOLID, TDD, Performance Optimization
+
+---
+
+## 🏆 Recognition
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-MVP%202026-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KanaiyaKatarmal&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanaiyaKatarmal&layout=compact&hide_border=true" height="165" />
+</p>
 
 ---
 
@@ -77,7 +142,7 @@ I work at the intersection of:
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kanaiyakatarmal/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/kanaiyakatarmal)
@@ -88,4 +153,4 @@ I work at the intersection of:
 
 ## ⚡ Personal Motto
 
-> Let’s build better software, together.
+> Let's build better software with .NET, AI, and great engineering practices. 🚀
