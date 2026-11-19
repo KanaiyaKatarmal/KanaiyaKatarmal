@@ -1,9 +1,10 @@
 # Hi 👋, I'm Kanaiya Katarmal
 
-<h1>Hi 👋, I'm Kanaiya Katarmal</h1>
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=CTO+%7C+Software+Architect+%7C+Microsoft+MVP;Helping+60K%2B+Engineers+Write+Better+.NET+Code;.NET+%7C+AI+%7C+Cloud+Engineering;LLMs+%7C+RAG+%7C+AI+Agents+%7C+MCP;15%2B+Years+Building+Scalable+Systems" />
+<p align="center">
+  <b>CTO | Software Architect | Microsoft MVP 2026</b><br/>
+  Helping 60K+ Engineers Write Better .NET Code<br/>
+  .NET | AI | Cloud Engineering | LLMs | RAG | AI Agents | MCP<br/>
+  15+ Years Building Scalable Systems
 </p>
 
 <p>
