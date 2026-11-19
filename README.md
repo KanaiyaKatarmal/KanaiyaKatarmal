@@ -1,10 +1,7 @@
 # Hi 👋, I'm Kanaiya Katarmal
 
 <p>
-  <b>CTO | Software Architect | Microsoft MVP 2026</b><br/>
-  Helping 60K+ Engineers Write Better .NET Code<br/>
-  .NET | AI | Cloud Engineering | LLMs | RAG | AI Agents | MCP<br/>
-  15+ Years Building Scalable Systems
+  <b>CTO | Software Architect | Microsoft MVP 2026</b>
 </p>
 
 <p>
