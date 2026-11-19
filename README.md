@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kanaiya Katarmal
 
 <p>
-  <b>CTO | Software Architect | Microsoft MVP 2026</b>
+  <b>CTO | Software Architect | Microsoft MVP 2026 | .NET & AI Engineering</b>
 </p>
 
 <p>
