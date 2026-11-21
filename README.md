@@ -90,7 +90,7 @@ I share practical insights, engineering techniques, and useful knowledge for .NE
 
 ---
 
-## 🛠️ Tech Focus
+## Tech Focus
 
 **Languages:** C#, SQL
 
@@ -118,7 +118,7 @@ I share practical insights, engineering techniques, and useful knowledge for .NE
 
 ---
 
-## 🚀 Work With Me
+## Work With Me
 
 <p>
   <a href="https://calendar.app.google/i4V5ZrqWvvvi61QV9">
@@ -131,7 +131,7 @@ I share practical insights, engineering techniques, and useful knowledge for .NE
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kanaiyakatarmal/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/kanaiyakatarmal)
