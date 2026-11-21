@@ -14,15 +14,15 @@ With <b>15+ years of experience</b> in software engineering, I work at the inter
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🏆 Microsoft MVP 2026
-- 👨‍💻 15+ years of experience in software engineering
-- 🚀 CTO and Software Architect
-- 👥 Helping 60K+ engineers write better .NET code
-- 🤖 Exploring Generative AI, LLMs, AI Agents, and intelligent applications
-- ☁️ Passionate about cloud architecture and distributed systems
-- ✍️ Sharing practical engineering knowledge with the developer community
+-  Microsoft MVP 2026
+-  15+ years of experience in software engineering
+-  CTO and Software Architect
+-  Helping 60K+ engineers write better .NET code
+-  Exploring Generative AI, LLMs, AI Agents, and intelligent applications
+-  Passionate about cloud architecture and distributed systems
+-  Sharing practical engineering knowledge with the developer community
 
 I work at the intersection of:
 
@@ -33,7 +33,7 @@ I work at the intersection of:
 
 ---
 
-## 🧩 Core Expertise
+##  Core Expertise
 
 ✔ .NET & C# Development  
 ✔ ASP.NET Core & Web APIs  
@@ -51,7 +51,7 @@ I work at the intersection of:
 
 ---
 
-## 🤖 AI & Modern Engineering
+## AI & Modern Engineering
 
 I am particularly interested in bringing AI capabilities into real-world software applications.
 
@@ -69,7 +69,7 @@ My areas of focus include:
 
 ---
 
-## 🔍 My Philosophy
+## My Philosophy
 
 > **"Simple scales. Clarity wins. Consistency compounds."**
 
@@ -82,11 +82,11 @@ My areas of focus include:
 
 ---
 
-## 📬 Weekly Newsletter
+## Weekly Newsletter
 
 I share practical insights, engineering techniques, and useful knowledge for .NET developers.
 
-👉 [.NET Weekly Newsletter](https://newsletter.kanaiyakatarmal.com/)
+👉 [.NET Weekly Newsletter](https://kanaiyakatarmal.com/)
 
 ---
 
@@ -110,19 +110,10 @@ I share practical insights, engineering techniques, and useful knowledge for .NE
 
 ---
 
-## 🏆 Recognition
+## Recognition
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft-MVP%202026-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanaiyaKatarmal&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanaiyaKatarmal&layout=compact&hide_border=true" height="165" />
 </p>
 
 ---
@@ -149,6 +140,6 @@ I share practical insights, engineering techniques, and useful knowledge for .NE
 
 ---
 
-## ⚡ Personal Motto
+## Personal Motto
 
-> Let's build better software with .NET, AI, and great engineering practices. 🚀
+> Let's build better software with .NET, AI, and great engineering practices. 
